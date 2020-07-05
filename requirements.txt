@@ -26,7 +26,6 @@ bcrypt==3.1.7
 beautifulsoup4==4.8.2
 bitarray==1.2.1
 bkcharts==0.2
-bleach==3.1.0
 blinker==1.4
 bokeh==1.4.0
 boto==2.49.0
@@ -63,7 +62,6 @@ defusedxml==0.6.0
 diff-match-patch==20181111
 distlib==0.3.0
 distributed==2.11.0
-Django==3.0.6
 dlib==19.20.0
 docopt==0.6.2
 docutils==0.15.2
@@ -199,7 +197,6 @@ PyAutoGUI==0.9.50
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
-pycrypto==2.6.1
 pycurl==7.43.0.5
 pydeck==0.4.0b2
 pydocstyle==4.0.1
