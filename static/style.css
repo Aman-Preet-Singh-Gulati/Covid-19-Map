@@ -1,0 +1,66 @@
+body{
+    overflow: scroll;
+    background-color: black;
+    color: white;
+}
+a{
+    color: red;
+    padding-left: 8px;
+}
+
+
+h2{
+    color: white;
+    text-align: center;
+    padding: 18px;
+    background-color: red;
+    font-weight: 800;
+    font-size: 30px;
+    width: 100%;
+    
+}
+.col-sm-4 h3{
+    color: red;
+    font-weight: 700;
+}
+.col-sm-4 p{
+    font-size: 17px;
+}
+
+.col-sm-8 p{
+    font-size: 17px;
+}
+
+.col-sm-8 h3{
+    color: red;
+    font-weight: 700;
+}
+
+.space{
+    padding-bottom: 70px;
+}
+
+table{
+    width: 100%;
+}
+
+td, tr
+{
+    color: white;
+    font-size: 19px;
+}
+tr:nth-child(even) {background-color:black;}
+
+td{
+    text-align: center;
+    padding-left: 10px;
+
+}th{
+    background-color: red;
+    color:white;
+    text-align: center;
+    
+    
+    font-size: 20px;
+    padding-bottom: 10px;
+}
