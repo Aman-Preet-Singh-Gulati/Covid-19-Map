@@ -159,6 +159,6 @@ Reach out to me at one of the following places!
 ---
 
 >## Is repository maintained ?
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Aman-Preet-Singh-Gulati/Covid-19-Map)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Aman-Preet-Singh-Gulati/)
