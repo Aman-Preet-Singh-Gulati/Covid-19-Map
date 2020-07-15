@@ -2,8 +2,27 @@
 
 
 
+
 # Covid-19 Dashboard Webapp
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+
 ## The app is `successfully deployed` at : https://covid-19-map-dashboard.herokuapp.com
+---
+
+
+## Here is the Badge of `Code Quality Score` and `Code grade` by `CodeInspector`
+![code quality score](https://www.code-inspector.com/project/11052/status/svg)
+![code quality score](https://www.code-inspector.com/project/11052/score/svg)
+> The parameters of scoring the badge in github 
+ - Code design
+ - Code readibility
+ - Frontend
+ - Backend
+ - Database (if any)
+ - Even `Bad indentation` can decrease the score to some extent.
+ - `Best thing` was I got only few `Violations` in Code style
 ---
 ## Technologies used :
 
@@ -17,9 +36,6 @@
 
 ---
 
-
-
-[![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
 ***HERE IS THE GLIMPSE OF COVID-19 DASHBOARD APP***
 
@@ -57,8 +73,9 @@ corona_df[['Lat', 'Long_', 'Confirmed', 'Combined_Key']].dropna().apply(lambda x
 
 ---
 
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)   [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
-## Table of Contents
+>## Table of Contents
 
 > If you don't wanna follow on the complete contents then, you can just `CLICK` the particular content
 
@@ -68,7 +85,7 @@ corona_df[['Lat', 'Long_', 'Confirmed', 'Combined_Key']].dropna().apply(lambda x
 - [Support](#support)
 - [License](#license)
 
-## Installation
+>## Installation
 
 - All the `code` required to get started
 - Images of what it should look like
@@ -95,7 +112,7 @@ pip install -r requirements.txt
 ```sh
 pip3 install -r requirements.txt
 ```
----
+
 ## Contributing
 
 > To get started...
@@ -118,14 +135,14 @@ pip3 install -r requirements.txt
 
 ---
 
-## FAQ
+>## FAQ
 
 - **How I did *Data Preprocessing* via pandas**
     - Just drop this query in my mail or other queries
     - Here is the <a href="https://gulatiamanpreetsingh@gmail.com/">`link`</a>  of my gmail account
 
 ---
-## Support
+>## Support
 
 Reach out to me at one of the following places!
 
@@ -133,10 +150,15 @@ Reach out to me at one of the following places!
 - Instagram  at <a href="https://www.instagram.com/_.aman_preet._/" target="_blank">`_.aman_preet._`</a>
 - Linkedin  at <a href="https://www.linkedin.com/in/aman-preet-singh-gulati-41ab20169/" target="_blank">`Aman preet Singh gulati`</a>
 ---
-## License
+>## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2020 © <a href="http://fvcproductions.com" target="_blank">Aman Preet Singh Gulati</a>.
 ---
+
+>## Is repository maintained ?
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
