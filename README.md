@@ -2,6 +2,8 @@
 
 
 # Covid-19 Dashboard Webapp
+## The app is `successfully deployed` at : https://covid-19-map-dashboard.herokuapp.com
+---
 ## Technologies used :
 
 > Flask : For designing the api for frontend
@@ -60,7 +62,6 @@ corona_df[['Lat', 'Long_', 'Confirmed', 'Combined_Key']].dropna().apply(lambda x
 > If you don't wanna follow on the complete contents then, you can just `CLICK` the particular content
 
 - [Installation](#installation)
-- [Features](#features)
 - [Contributing](#contributing)
 - [FAQ](#faq)
 - [Support](#support)
@@ -84,3 +85,57 @@ pip install folium
 pip install flask
 ```
 
+> Or if you wanna install complete required libraries at once
+- For Python2
+```sh
+pip install -r requirements.txt
+```
+- For Python3
+```sh
+pip3 install -r requirements.txt
+```
+
+## Contributing
+
+> To get started...
+
+### Step 1
+
+- **Option 1**
+    - 🍴 Fork this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `https://github.com/Aman-Preet-Singh-Gulati/Covid-19-Map.git`
+
+### Step 2
+
+- **HACK AWAY!** 🔨🔨🔨
+
+### Step 3
+
+- 🔃 Create a new pull request using <a href="https://github.com/Aman-Preet-Singh-Gulati/Covid-19-Map/compare/" target="_blank">`https://github.com/Aman-Preet-Singh-Gulati/Covid-19-Map/compare`</a>.
+
+---
+
+## FAQ
+
+- **How I did *Data Preprocessing* via pandas**
+    - Just drop this query in my mail or other queries
+    - Here is the <a href="https://gulatiamanpreetsingh@gmail.com/">`link`</a>  of my gmail account
+
+---
+## Support
+
+Reach out to me at one of the following places!
+
+- Website at <a href="https://aman-preet-singh-gulati.github.io/Aman-Preet-Singh-Gulati/" target="_blank">         `Portfolio|Amanpreet`</a>
+- Instagram  at <a href="https://www.instagram.com/_.aman_preet._/" target="_blank">`_.aman_preet._`</a>
+- Linkedin  at <a href="https://www.linkedin.com/in/aman-preet-singh-gulati-41ab20169/" target="_blank">`Aman preet Singh gulati`</a>
+---
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+---
