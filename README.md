@@ -73,7 +73,7 @@ corona_df[['Lat', 'Long_', 'Confirmed', 'Combined_Key']].dropna().apply(lambda x
 
 ---
 
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)   [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/Aman-Preet-Singh-Gulati/)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/Aman-Preet-Singh-Gulati/Covid-19-Map/issues)   [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/Aman-Preet-Singh-Gulati/)
 
 >## Table of Contents
 
