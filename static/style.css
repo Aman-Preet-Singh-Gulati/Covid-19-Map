@@ -6,9 +6,39 @@ body{
 a{
     color: red;
     padding-left: 8px;
+    text-decoration: none;
 }
 
-
+.fa {
+    padding: 20px;
+    /* font-size: 100px; */
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+  
+.fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+    color: black;
+}
+  
+.fa-facebook {
+    background: red;
+    color: white;
+}
+  
+.fa-github {
+    background: red;
+    color: white;
+}
+  
+.fa-linkedin {
+    background: red;
+    color: white;
+}
 h2{
     color: white;
     text-align: center;
