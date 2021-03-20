@@ -4,7 +4,7 @@ folium==0.11.0
 requests==2.22.0
 certifi>=2017.4.17
 gunicorn==19.9.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 numpy>=1.18.1
